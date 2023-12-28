@@ -13,4 +13,4 @@
 
 实现了学生管理、楼层管理、宿舍管理、用户管理、系统管理和个人信息管理
 
-详询 微信1：egvh56ufy7hh ，微信2：dabocode ，钉钉：chengxuyuandabo ，QQ：821898835 ，承接商业项目和毕设
+详询 微信1：egvh56ufy7hh ，微信2：dabocode ，钉钉：chengxuyuandabo ，QQ：821898835 。承接商业项目、课设、毕设和论文，包括但不限于Web、APP、小程序等，课设、毕设提供远程部署和不限次数代码解答！
