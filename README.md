@@ -1,7 +1,7 @@
 # VueDormitorySys
 基于springboot和Vue的宿舍管理系统
 
-演示视频链接：https://live.csdn.net/v/268671
+演示视频链接：https://www.bilibili.com/video/BV1824y1a71V/
 
 使用的技术
 
